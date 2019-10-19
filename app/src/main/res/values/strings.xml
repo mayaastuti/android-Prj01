@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prj 01</string>
+    <string name="Lbl_Nama">Masukan Nama Anda</string>
+    <string name="Btn_TampilNama">Tampilkan</string>
+</resources>
